@@ -1,0 +1,2 @@
+//classes abstradas -> são classes q nao podem ser instanciadas, ou seja classes
+//q não podem ser SUPER CLASSES/CLASSES MÂE... Ou seja q NÂO podem ser HERDADAS
